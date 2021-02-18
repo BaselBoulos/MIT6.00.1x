@@ -1,6 +1,4 @@
 # MIT6.00.1x
-Course MIT6.00.1x Projects.
+Coding exercises, Problem Sets For MITx: 6.00.2x Introduction to Computational Thinking and Data Science, EdX
 
-All the problem sets from the course MIT6.00.1x.
-
-Coded in Python.
+All code in this course is in Python 3
